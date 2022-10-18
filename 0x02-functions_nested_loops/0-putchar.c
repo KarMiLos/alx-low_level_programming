@@ -1,7 +1,8 @@
 #include "main.h"
+
 /**
  * main - print _putchar
- * is written by KarMiLos
+ * is written by camellius
  * Return: 0
  */
 
@@ -15,6 +16,6 @@ _putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
-_putchar('\n')
+_putchar('\n');
 return (0);
 }
